@@ -1,5 +1,8 @@
 # 🧪 React Tester App
 
+[![Live on Render](https://img.shields.io/badge/Live%20Site-React%20Tester%20App-blue?style=flat-square&logo=render&logoColor=white)](https://react-tester-app.onrender.com)
+
+
 A lightweight React + Vite application for learning and practicing modern front-end testing techniques using Vitest and React Testing Library.
 
 ---
@@ -23,6 +26,11 @@ A lightweight React + Vite application for learning and practicing modern front-
 - [@testing-library/react](https://testing-library.com/react)
 - [jsdom](https://github.com/jsdom/jsdom)
 - [@testing-library/jest-dom](https://github.com/testing-library/jest-dom)
+
+---
+## 🌐 Live Demo
+
+[View the app on Render](https://react-tester.onrender.com)
 
 ---
 
